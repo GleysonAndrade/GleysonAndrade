@@ -1,12 +1,10 @@
 ### Olá, eu sou @Gleyson 👋
 
-### 💻Rede Sociais 
+### 💻Rede Sociais
 
-[Facebook](https://www.facebook.com/gleyson.andrade.520) 
-
-[Instagran](https://www.instagen.com/gleyson_alves_andrade)
-
-[Linkedin](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
+[<img src="/icons/facebook-brands.svg" width="35">](https://www.facebook.com/gleyson.andrade.520) 
+[<img src="/icons/instagram-square-brands.svg" width="31">](https://www.instagen.com/gleyson_alves_andrade)
+[<img src="/icons/linkedin-brands.svg" width="31">](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
 
 ### :heavy_check_mark:Status Github
 [![Estatísticas do GitHub de Gleyson](https://github-readme-stats.vercel.app/api?username=gleysonandrade&show_icons=true)](https://github.com/gleysonandrade/github-readme-stats)
