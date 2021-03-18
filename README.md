@@ -1,5 +1,5 @@
 ### Olá, eu sou @Gleyson 👋
-
+<img src="Design sem nome.png" width="35">
 ### 💻Rede Sociais
 
 [<img src="/icons/facebook-brands.svg" width="35">](https://www.facebook.com/gleyson.andrade.520) 
@@ -9,3 +9,6 @@
 ### :heavy_check_mark:Status Github
 [![Estatísticas do GitHub de Gleyson](https://github-readme-stats.vercel.app/api?username=gleysonandrade&show_icons=true)](https://github.com/gleysonandrade/github-readme-stats)
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysonandrade&layout=compact)](https://github.com/gleysonandrade/github-readme-stats)
+
+
+(Icons by [Font Awesome](https://fontawesome.com/license/free))
