@@ -11,7 +11,7 @@
 [<img src="/icons/instagram-square-brands.svg" width="20">](https://www.instagram.com/gleyson_alves_andrade/)
 [<img src="/icons/linkedin-brands.svg" width="20">](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
 
-### Conhecimentos : 
+### 📖 Conhecimentos
 
 [<img src="/linguage/bootstrap-brands.svg" width="24">](https://www.facebook.com/gleyson.andrade.520) 
 <img src="/linguage/css3-brands.svg" width="27">
