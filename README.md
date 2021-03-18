@@ -1,5 +1,5 @@
 ### Olá, eu sou @Gleyson 👋
-<img src="Design sem nome.png" width="35">
+<img src="Design sem nome.png">
 ### 💻Rede Sociais
 
 [<img src="/icons/facebook-brands.svg" width="35">](https://www.facebook.com/gleyson.andrade.520) 
