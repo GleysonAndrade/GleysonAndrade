@@ -22,8 +22,8 @@
 
 ### :heavy_check_mark:Status Github
 
-[![Estatísticas do GitHub de Gleyson](https://github-readme-stats.vercel.app/api?username=gleysonandrade&show_icons=true)](https://github.com/gleysonandrade/github-readme-stats)
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysonandrade&layout=compact)](https://github.com/gleysonandrade/github-readme-stats)
+[![Estatísticas do GitHub de Gleyson](https://github-readme-stats.vercel.app/api?username=gleysonandrade&show_icons=true)](https://www.systecweb.online/)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysonandrade&layout=compact)](https://www.systecweb.online/)
 
 
 (Icons by [Font Awesome](https://fontawesome.com/license/free))
