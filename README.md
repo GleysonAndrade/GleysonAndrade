@@ -27,5 +27,7 @@
 
 ### :heavy_check_mark:Status Github
 
-[![Estatísticas do GitHub de Gleyson](https://github-readme-stats.vercel.app/api?username=gleysonandrade&show_icons=true)](https://gleysonandrade.github.io/portifolio/)
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysonandrade&layout=compact)](https://gleysonandrade.github.io/portifolio/)
+<div align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleysonAndrade_&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GleysonAndrade_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</div><br>	
