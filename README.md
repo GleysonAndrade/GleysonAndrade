@@ -8,7 +8,7 @@
 ### 💻Rede Sociais
 
 [<img src="/icons/facebook-brands.svg" width="24">](https://www.facebook.com/gleyson.andrade.520) 
-[<img src="/icons/instagram-square-brands.svg" width="20">](https://www.instagram.com/gleyson_alves_andrade/)
+[<img src="/icons/logo-instagram.svg" width="22">](https://www.instagram.com/gleyson_alves_andrade/)
 [<img src="/icons/linkedin-brands.svg" width="20">](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
 
 ### 📖 Conhecimentos
