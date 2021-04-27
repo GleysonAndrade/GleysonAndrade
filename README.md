@@ -13,7 +13,7 @@
 
 ### 📖 Conhecimentos
 
-![C#](<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>)
+![C#](https://camo.githubusercontent.com/dbcb7f13bbfb659a040beb68e49168323a0c4808722ae591853d363da2d0cbd0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
 
 ### :heavy_check_mark:Status Github
 
