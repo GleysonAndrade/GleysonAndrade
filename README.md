@@ -13,12 +13,7 @@
 
 ### 📖 Conhecimentos
 
-[<img src="/linguage/bootstrap-brands.svg" width="24">](https://www.facebook.com/gleyson.andrade.520) 
-<img src="/linguage/css3-brands.svg" width="27">
-<img src="/linguage/html5-brands.svg" width="21">
-<img src="/linguage/js-brands.svg" width="25">
-<img src="/linguage/cuttlefish-brands.svg" width="24">
-<img src="/linguage/php-brands.svg" width="42">
+![C#](<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>)
 
 ### :heavy_check_mark:Status Github
 
