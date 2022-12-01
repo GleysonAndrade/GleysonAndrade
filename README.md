@@ -1,16 +1,18 @@
 
 <h1 align='center'>Hi 👋, I'm Gleyson Alves🚀</h1>
-
+<h3>Developer PHP</h3>
+<hr>
 <div class="container">
-	<img src="Design sem nome.png">
+	<img height="280em" width="100%" src="logophp.jpg">
 </div>
 
+<h3>💻 My Social Networks</h3>
+### Rede Sociais
 
-### 💻Rede Sociais
-
-[<img src="/icons/logo-whatsapp.svg" width="22">](https://api.whatsapp.com/send?phone=5531999233851)
+[<img src="/icons/logo-whatsapp.svg" width="22">](https://api.whatsapp.com/send?phone=5531981018598)
 [<img src="/icons/logo-instagram.svg" width="22">](https://www.instagram.com/gleyson_alves_andrade/)
 [<img src="/icons/logo-linkedin.svg" width="22">](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
+[<img src="/icons/logo-discord.svg" width="22">](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
 
 ### 📖 Conhecimentos
 
