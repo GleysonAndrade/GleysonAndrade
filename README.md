@@ -40,7 +40,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=blue)
-![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=visual-studio-code&logoColor=blue)
+![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans-code&logoColor=blue)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=FF6C37)
 
 <br/>
