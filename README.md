@@ -40,13 +40,13 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=blue)
-![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans-code&logoColor=blue)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=FF6C37)
 
 <br/>
 
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/GleysonAndrade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GleysonAndrade&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
