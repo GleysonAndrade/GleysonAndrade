@@ -20,10 +20,10 @@
 ![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 
 **Utilidades**
 
