@@ -51,6 +51,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleyson-andrade-a71a65120/)](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
+[![Linkedin](https://img.shields.io/badge/-GleysonAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleyson-andrade-a71a65120/)](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
 [![Yahoo Mail Badge](https://img.shields.io/badge/-gleysondev@yaho.com-720e9e?style=flat-square&logo=yahoo&logoColor=whitelink=mailto:gleysondev@yaho.com)](mailto:gleysondev@yaho.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GleysonAndrade/)
+[![GitHub](https://img.shields.io/github/followers/GleysonAndrade?label=follow&style=social)](https://github.com/GleysonAndrade/)
