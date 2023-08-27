@@ -27,8 +27,8 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-333333?style=flat&logo=phpmyadmin)
-![Packagist](https://img.shields.io/badge/Packagist-Composer-333333?style=flat&logo=composer)
-![Composer](https://img.shields.io/badge/Composer-Dependency%20Manager-885630?style=flat&logo=composer)
+![Packagist](https://img.shields.io/badge/Packagist-333333?style=flat&logo=composer)
+![Composer](https://img.shields.io/badge/Composer-333333?style=flat&logo=composer)
 
 
 **DevOps**
