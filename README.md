@@ -15,12 +15,15 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=black)
 
 **Utilidades**
 
@@ -52,5 +55,6 @@
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-GleysonAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleyson-andrade-a71a65120/)](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-333333?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+55(31)98101-8598)
 [![Yahoo Mail Badge](https://img.shields.io/badge/-gleysondev@yaho.com-720e9e?style=flat-square&logo=yahoo&logoColor=whitelink=mailto:gleysondev@yaho.com)](mailto:gleysondev@yaho.com)
 [![GitHub](https://img.shields.io/github/followers/GleysonAndrade?label=follow&style=social)](https://github.com/GleysonAndrade/)
