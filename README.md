@@ -55,6 +55,6 @@
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-GleysonAndrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleyson-andrade-a71a65120/)](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-333333?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+55(31)98101-8598)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5531981018598)
 [![Yahoo Mail Badge](https://img.shields.io/badge/-gleysondev@yaho.com-720e9e?style=flat-square&logo=yahoo&logoColor=whitelink=mailto:gleysondev@yaho.com)](mailto:gleysondev@yaho.com)
 [![GitHub](https://img.shields.io/github/followers/GleysonAndrade?label=follow&style=social)](https://github.com/GleysonAndrade/)
