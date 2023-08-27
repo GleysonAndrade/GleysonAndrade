@@ -40,7 +40,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=blue)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=FF6C37)
 
 <br/>
@@ -51,6 +51,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gleyson-andrade-a71a65120/)](https://www.linkedin.com/in/gleyson-andrade-a71a65120/)
+[![Yahoo Mail Badge](https://img.shields.io/badge/-gleysondev@yaho.com-720e9e?style=flat-square&logo=yahoo&logoColor=whitelink=mailto:gleysondev@yaho.com)](mailto:gleysondev@yaho.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GleysonAndrade/)
