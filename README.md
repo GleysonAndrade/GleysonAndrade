@@ -7,8 +7,8 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Me chamo Gleyson trabalho com desenvolvimento web.
-- 🎓 Formado **Analise e Desenvolvimento de Sistema** no <a href="https://www.anhanguera.com/">FACULDADE ANHANGUERA</a>.
-- 💼 Trabalhando com **Desenvolvimento Web** na <a href="https://agenciamyhelp.com.br/">MY HELP</a>
+- 🎓 Formado **Analise e Desenvolvimento de Sistema**.
+- 💼 Trabalhando com **Desenvolvimento Web** na <a href="https://cotefrete.com.br/">COTE FRETE</a>
 - 🌱 &nbsp; Aprendendo mais sobre **PHP**.
 
 <h3>Minhas Skills</h3>
